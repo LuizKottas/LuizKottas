@@ -7,18 +7,18 @@ I'm an economist passionate about Dev, Python, and AI. I'm focused on enhancing 
 - **Deep Learning Exploration**: Exploring advanced deep learning models.
 
 ## 🎓 Education
-- Completed courses in Python and machine learning (Coursera, Udacity).
-- Active participant in Kaggle competitions.
+- Completed courses in Python and machine learning (Coursera, Udacity,edX).
+- Interested in Kaggle competitions.
 
 ## 🌱 Goals
 - Contribute to open-source projects.
-- Collaborate with the developer community.
+- Collaborate with the developers' community.
 
 ## 📫 Let's Connect!
 - [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/luiz-guilherme-kottas-a005371b5/))
 - [Email](mailto:luizvkottas@gmail.com)
 
-Feel free to reach out for collaboration or to connect!
+Feel free to reach out for collaboration.
 
 ---
 
