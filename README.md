@@ -7,6 +7,7 @@ I'm an economist passionate about Dev, Python, and AI. I'm focused on enhancing 
 - **Deep Learning Exploration**: Exploring advanced deep learning models.
 
 ## 🎓 Education
+- Major focused on economics and DS. (MSc VU-AMS)
 - Completed courses in Python and machine learning (Coursera, Udacity,edX).
 - Interested in Kaggle competitions.
 
