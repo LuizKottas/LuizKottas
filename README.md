@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**LuizKottas/LuizKottas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an economist passionate about Dev, Python, and AI. I'm focused on enhancing my skills in machine learning and developing innovative projects. 🚀
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
+- **Chess with AI**: Developing an AI-powered chess game.
+- **Deep Learning Exploration**: Exploring advanced deep learning models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- Completed courses in Python and machine learning (Coursera, Udacity).
+- Active participant in Kaggle competitions.
+
+## 🌱 Goals
+- Contribute to open-source projects.
+- Collaborate with the developer community.
+
+## 📫 Let's Connect!
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/luiz-guilherme-kottas-a005371b5/))
+- [Email](mailto:luizvkottas@gmail.com)
+
+Feel free to reach out for collaboration or to connect!
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=luizkottas&color=blue)
